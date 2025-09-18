@@ -1,0 +1,15 @@
+/home/Coder/Escritorio/KABO/LINQ/bin/Debug/net8.0/LINQ
+/home/Coder/Escritorio/KABO/LINQ/bin/Debug/net8.0/LINQ.deps.json
+/home/Coder/Escritorio/KABO/LINQ/bin/Debug/net8.0/LINQ.runtimeconfig.json
+/home/Coder/Escritorio/KABO/LINQ/bin/Debug/net8.0/LINQ.dll
+/home/Coder/Escritorio/KABO/LINQ/bin/Debug/net8.0/LINQ.pdb
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.AssemblyInfoInputs.cache
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.AssemblyInfo.cs
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.csproj.CoreCompileInputs.cache
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.sourcelink.json
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.dll
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/refint/LINQ.dll
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.pdb
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/LINQ.genruntimeconfig.cache
+/home/Coder/Escritorio/KABO/LINQ/obj/Debug/net8.0/ref/LINQ.dll
